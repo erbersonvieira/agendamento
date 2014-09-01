@@ -1,0 +1,98 @@
+#container {
+	width: 1024px;
+	height: auto;
+	margin: 0 auto;
+	
+}
+
+#topo {
+	background-color: #000080;
+	height: 70px;
+	color: white;
+	text-align: center;
+	width: 1024px;
+	float: left;
+	
+}
+
+#corpo{
+	
+	text-align: center;
+}
+
+#form {
+	text-align: left;
+	margin-top: 10px;
+	width: 1024px;
+	float: left;
+	height: auto;
+	padding-bottom: 20px;
+	
+}
+
+#lista{
+	width: 960px;
+	float: left;
+	height: auto;
+	
+	
+}
+
+#lista table{
+	width: 960px;
+	text-align: center;
+}
+
+fieldset{
+	border-color: blue;
+}
+
+legend{
+	font-style: italic;
+	font-weight: bold;
+	font-size: 20;
+}
+
+#lista table {
+	border-collapse: collapse;
+	
+}
+
+#lista table, td, th {
+	
+	border:1px solid #2424FF;
+    padding:3px 7px 2px 7px
+}
+
+
+
+table th
+      {
+        font-size:1.2em;
+        text-align:left;
+        padding-top:5px;
+        padding-bottom:4px;
+        background-color:#2E82FF;
+        color:#fff;
+      }
+      table tr.alt td
+      {
+        color:#000;
+        background-color:#D6EDFF;
+      }
+
+
+
+
+#rodape {
+	background-color: #000080;
+	height: 60px;
+	margin-top: 50px;
+	width: 1024px;
+	float: left;
+	color: white;
+	text-align: center;
+	padding-top: 30px;
+	
+	
+}

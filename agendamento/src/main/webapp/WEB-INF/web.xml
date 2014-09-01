@@ -4,6 +4,7 @@
     "http://java.sun.com/dtd/web-app_2_3.dtd">
 
 <web-app>
+<!-- 
     <servlet>
         <servlet-name>AloServlet</servlet-name>
         <servlet-class>AloServlet</servlet-class>
@@ -13,7 +14,7 @@
         <servlet-name>MostraServlet</servlet-name>
         <servlet-class>MostraServlet</servlet-class>
     </servlet>
-
+ -->
 
 
 </web-app>
