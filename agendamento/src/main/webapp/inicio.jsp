@@ -19,9 +19,9 @@
 				<fieldset>
 					<legend>Selecione a opção desejada</legend>
 
-					<a href="usuario.html">Cadastro de usuários</a> <br> <a
+					<a href="usuario.jsp">Cadastro de usuários</a> <br> <a
 						href="candidato.jsp">Cadastro de candidatos</a> <br> <a
-							href="exames.html">Cadastro de exames</a> <br> <br> <a
+							href="exames.jsp">Cadastro de exames</a> <br> <br> <a
 									href="examinador.html">Cadastro de Examinadores</a> <br> <a
 										href="requerimento.html">Cadastro de requerimentos</a> <br>
 											<a href="processo.html">Cadastro de processos</a> <br> <br>
